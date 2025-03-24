@@ -3,9 +3,6 @@ import java.util.*;
 
 /* Veer Desai
  * 1/13/2025
- * CSE 123
- * C0: Search Engine
- * TA: Isayiah Lim
 */
 
 // This class allows users to find and rate books within BOOK_DIRECTORY
