@@ -1,9 +1,6 @@
 /*
  * Veer Desai
  * 1/13/2025
- * CSE 123
- * C0: Search Engine
- * TA: Isayiah Lim
  */
 import java.util.*;
 
